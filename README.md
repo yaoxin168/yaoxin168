@@ -1,10 +1,12 @@
 <h1 align="center">欢迎您来到我的个人简介👋, 我是姚鑫</h1>
 <h3 align="center">一个对技术充满激情的C++开发者</h3>
-<h3 align="left">我的博客：</h3>
-- 书籍是人类进步的阶梯 [Effective Modern C++ 阅读笔记](https://blog.csdn.net/qq_43495002/article/details/136556205)<br>
-- 我是如何使用C++一步步实现RPC的[RPC 框架-格式化输出、eventfd、Reactor模式、linux定时器、XML文件的使用]([https://blog.csdn.net/qq_43495002/article/details/136556205](https://blog.csdn.net/qq_43495002/article/details/134408069))<br>
-
-
+<h3 align="left">我参与的部分项目：</h3>
+[高性能异步RPC框架](https://gitee.com/yao--xin/rocket)<br>
+<h3 align="left">我攥写的部分博客：</h3>
+[Effective Modern C++ 阅读笔记](https://blog.csdn.net/qq_43495002/article/details/136556205)<br>
+[怎样使用C++一步步实现RPC远程过程调用](https://blog.csdn.net/qq_43495002/article/details/134408069)<br>
+[现代CMake的使用技巧](https://blog.csdn.net/qq_43495002/article/details/134000654)<br>
+[聊聊Linux多进程开发](https://blog.csdn.net/qq_43495002/article/details/131839750)<br>
 <h3 align="left">联系我：</h3>
 - 📱 **17313174649** <br>
 - 📧**yaoxin.yao@foxmail.com** <br>
