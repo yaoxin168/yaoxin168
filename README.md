@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm yaoxin</h1>
 <h3 align="center">A passionate c++ developer from China</h3>
 
+- 🔭 my blogs [1](https://blog.csdn.net/qq_43495002/article/details/136556205)
+- 🔭 my blogs [1](https://blog.csdn.net/qq_43495002/article/details/136556205)
+- 📫 How to reach me **yaoxin.yao@foxmail.com** **17313174649**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
