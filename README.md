@@ -2,6 +2,9 @@
 <h3 align="center">一个对技术充满激情的C++开发者</h3>
 <h3 align="left">我参与的部分项目：</h3>
 [高性能异步RPC框架](https://gitee.com/yao--xin/rocket)<br>
+[天气雷达风暴单体外推软件]<img src="https://ooo.0x0.ooo/2024/06/25/OPiz71.png" alt="qt" width="100" height="100"/>
+<img src="https://ooo.0x0.ooo/2024/06/25/OPiFHI.png" alt="qt" width="100" height="100"/>
+<img src="https://ooo.0x0.ooo/2024/06/25/OPihXD.png" alt="qt" width="100" height="100"/>
 <h3 align="left">我攥写的部分博客：</h3>
 [Effective Modern C++ 阅读笔记](https://blog.csdn.net/qq_43495002/article/details/136556205)<br>
 [怎样使用C++一步步实现RPC远程过程调用](https://blog.csdn.net/qq_43495002/article/details/134408069)<br>
