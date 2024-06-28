@@ -1,7 +1,7 @@
 <h1 align="center">欢迎您来到我的主页👋, 我是姚鑫</h1>
 <h3 align="center">一个对技术充满激情的C++开发者</h3>
 <h3 align="left">我参与的部分项目：</h3>
-<h4 align="left">**[高性能异步RPC框架]**</h4>(https://gitee.com/yao--xin/rocket)
+<h4 align="left">**[高性能异步RPC框架](https://gitee.com/yao--xin/rocket)**</h4>
 开发了一个高性能、异步的C++ RPC框架。该框架采用主从Reactor模型，实现了低延迟、高吞吐量的远程过程调用。它采用Protobuf进行序列化，定义了高效的应用层协议。框架还提供可配置的异步日志功能，具有模块化设计和良好的扩展性。<br>
 <h4 align="left">**[天气雷达风暴单体外推软件]**</h4>
 该项目开发了一款基于单部多普勒雷达数据的可视化风暴外推预测软件。该软件采用深度学习技术，实现对雷达回波数据的精准外推预测。在可视化方面，软件采用 Qt 和 VTK 栈提供了丰富的体扫数据可视化功能，包括体积渲染、切片显示和等值面等，满足气象分析人员的需求。整个系统注重模块化设计和可扩展性。
@@ -9,8 +9,6 @@
     <img src="https://ooo.0x0.ooo/2024/06/25/OPiz71.png" alt="qt" width="260" height="200"/>
     <img src="https://ooo.0x0.ooo/2024/06/25/OPiFHI.png" alt="qt" width="260" height="200"/>
     <img src="https://ooo.0x0.ooo/2024/06/25/OPihXD.png" alt="qt" width="300" height="200"/>
-</div>
-<br>
 <h4 align="left">**[分布式文件系统]**</h4>
 本使用Qt开发客户端界面,通过整合fastdfs、nginx和fastcgi等技术组件，实现了分布式文件存储和访问的功能，支持用户注册、文件上传、下载操作。
 具体而言，使用堆栈窗口实现主界面，使用json作为配置文件实现了登录与注册功能，使用fastdfs实现文件上传与下载功能。服务端使用nginx与fastcgi处理客户端请求。
