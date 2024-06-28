@@ -8,8 +8,17 @@
 <div style="width: 100%;">
     <img src="https://ooo.0x0.ooo/2024/06/25/OPiz71.png" alt="qt" width="260" height="200"/>
     <img src="https://ooo.0x0.ooo/2024/06/25/OPiFHI.png" alt="qt" width="260" height="200"/>
-    <img src="https://ooo.0x0.ooo/2024/06/25/OPihXD.png" alt="qt" width="260" height="200"/>
+    <img src="https://ooo.0x0.ooo/2024/06/25/OPihXD.png" alt="qt" width="300" height="200"/>
 </div>
+<br>
+**[分布式文件系统]**
+本使用Qt开发客户端界面,通过整合fastdfs、nginx和fastcgi等技术组件，实现了分布式文件存储和访问的功能，支持文件上传和下载操作。
+具体而言，使用堆栈窗口实现主界面，使用json作为配置文件实现了登录与注册功能，使用fastdfs实现文件上传与下载功能。服务端使用nginx与fastcgi处理客户端请求。
+<div style="width: 100%;">
+    <img src="https://ooo.0x0.ooo/2024/06/28/OPNr2a.png" alt="qt" width="260" height="200"/>
+    <img src="https://ooo.0x0.ooo/2024/06/28/OPNetK.png" alt="qt" width="260" height="200"/>
+    <img src="https://ooo.0x0.ooo/2024/06/28/OPNNhs.png" alt="qt" width="300" height="200"/>
+</div><br>
 <h3 align="left">我攥写的部分博客：</h3>
 [Effective Modern C++ 阅读笔记](https://blog.csdn.net/qq_43495002/article/details/136556205)<br>
 [怎样使用C++一步步实现RPC远程过程调用](https://blog.csdn.net/qq_43495002/article/details/134408069)<br>
