@@ -14,9 +14,9 @@
 数字判读系统可实现多目标的位置、辐射和姿态等数据的判读，具有检片、浏览和图像处理等功能，提供人工、半自动和自动等多种判读方式，并兼容多种序列数字图像格式。 
 主要负责将其移植到Qt平台，负责其中的数据载入、显示与辐射判读等功能的实现。
 <div style="width: 100%;">
-    <img src="https://ooo.0x0.ooo/2024/06/28/OPNvsC.png" alt="OPNvsC.png" border="0">
-    <img src="https://ooo.0x0.ooo/2024/06/28/OPNZgN.png" alt="OPNZgN.png" border="0">
-    <img src="https://ooo.0x0.ooo/2024/06/28/OPNKWS.png" alt="OPNKWS.png" border="0">
+    <img src="https://ooo.0x0.ooo/2024/06/28/OPNvsC.png" alt="qt" width="300" height="200">
+    <img src="https://ooo.0x0.ooo/2024/06/28/OPNKWS.png" alt="qt" width="300" height="200">
+    <img src="https://ooo.0x0.ooo/2024/06/28/OPNZgN.png" alt="qt" width="300" height="200">
 </div>
 <h4 align="left">**[分布式文件系统]**</h4>
 本使用Qt开发客户端界面,通过整合fastdfs、nginx和fastcgi等技术组件，实现了分布式文件存储和访问的功能，支持用户注册、文件上传、下载操作。
